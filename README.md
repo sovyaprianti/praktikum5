@@ -142,3 +142,17 @@ print("-" * 60)
 
 ## Code program tersebut:
 
+![Screenshot (77)](https://github.com/user-attachments/assets/3dd1bb62-6165-4970-86d5-b438ad095110)
+
+## Hasil Program Tersebut
+
+![Screenshot (76)](https://github.com/user-attachments/assets/02c9f478-5009-48b1-8372-6f8359932f31)
+
+## Dan ini Flowchartnya
+
+![Screenshot 2024-11-13 083635](https://github.com/user-attachments/assets/86e7271b-d582-4cef-97ec-c233d849759c)
+
+
+# ''''''''''SELESAI''''''''''
+
+
